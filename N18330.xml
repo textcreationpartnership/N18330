@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:023778_0000_0FC11F667B648F30"/>
-            <pb facs="tcp:023778_0001_0FC11F68304E2A48"/>
+            <pb facs="unknown:023778_0000_0FC11F667B648F30"/>
+            <pb facs="unknown:023778_0001_0FC11F68304E2A48"/>
             <p>A DISCOURSE DELIVERED IN CHRIST'S CHURCH AT NORWICH-LANDING. IN THE <hi>STATE</hi> OF <hi>CONNECTICUT,</hi> ON WEDNESDAY, THE 24th DAY OF AUGUST, BEING THE DAY OF INTRODUCING AN ORGAN INTO THAT CHURCH.</p>
             <p>BY WILLIAM SMITH, A. M. Rector of Trinity Church, Newport, Rhode-Iſland State.</p>
             <q>
@@ -124,7 +124,7 @@
                <hi>NORWICH:</hi> PRINTED BY JOHN TRUMBULL, M,DCC,XCI.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:023778_0002_0FC11F71A6C2B6D8"/>
+            <pb facs="unknown:023778_0002_0FC11F71A6C2B6D8"/>
             <p>TO THE RECTOR, WARDENS, VESTRY, AND CONGREGATION OF CHRIST'S CHURCH, IN NORWICH-LANDING IN THE STATE OF CONNECTICUT; THE FOLLOWING DISCOURSE, AS IT WAS COMPOSED AND DELIVERED AT YOUR REQUEST, SO NOW IS IT INSCRIBED TO YOU, WITH ALL DUE RESPECT AND ESTEEM,</p>
             <closer>
                <hi>By</hi> 
@@ -138,7 +138,7 @@
       </front>
       <body>
          <div type="sermon">
-            <pb facs="tcp:023778_0003_0FC11F7684BEE3B8"/>
+            <pb facs="unknown:023778_0003_0FC11F7684BEE3B8"/>
             <head>A DISCOURSE, &amp;c.</head>
             <epigraph>
                <bibl>PSALM CL. v. 6.</bibl>
@@ -187,7 +187,7 @@
                </gap>gilds the mountain's brow, behold the cattle on a thou<gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
                </gap>nd hills lowing forth their
-<pb n="6" facs="tcp:023778_0004_0FC11F7A011918F0"/>
+<pb n="6" facs="unknown:023778_0004_0FC11F7A011918F0"/>
 gladſome h<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ſanna<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -269,7 +269,7 @@ gladſome h<gap reason="illegible" resp="#AELD" extent="1 letter">
                <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>
-               <pb n="7" facs="tcp:023778_0005_0FC11F7B886769B8"/>
+               <pb n="7" facs="unknown:023778_0005_0FC11F7B886769B8"/>
 the ſong of heaven becomes reſponſiv<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>, and the elements of Air and Fire unite to faſhion and blow the Trumpet of God; whilſt the forked lightning a ſpecies of<note n="*" place="bottom">
@@ -313,7 +313,7 @@ the ſong of heaven becomes reſponſiv<gap reason="illegible" resp="#AELD" exte
             <p>AND was the moſt lively imagination to ex<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ct itſelf, in framing an Idea of the grandeſt exhibition of praiſe to
-<pb n="8" facs="tcp:023778_0006_0FC11F8339B62F68"/>
+<pb n="8" facs="unknown:023778_0006_0FC11F8339B62F68"/>
 Heaven's King that univerſal Nature is capable of per<g ref="char:EOLhyphen"/>forming; it could be no other, than the joint accompa<g ref="char:EOLhyphen"/>
                <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
@@ -394,7 +394,7 @@ Heaven's King that univerſal Nature is capable of per<g ref="char:EOLhyphen"/>f
                      <desc>〈…〉</desc>
                   </gap>
                </note> Trumpet, thunderings
-<pb n="9" facs="tcp:023778_0007_0FC11F87A4103168"/>
+<pb n="9" facs="unknown:023778_0007_0FC11F87A4103168"/>
 lightnings and earthquake at giving the Decalogue. Then appeared in its true colours, the extreme impo<g ref="char:EOLhyphen"/>tency of fallen human Nature, when even Moſes trem<g ref="char:EOLhyphen"/>bled exceedingly! Then was the earth moved to it's centre, the everlaſting hills ſhook—the clouds poured down water, the arrows of vengeance flew abroad. All Nature was ſeized with ſtrong convulſions, foreboding the pangs of future diſſolution!</p>
             <p>THROUGH the ſtrong vibrations of the thunders and trumpet, in the day when God ſhall viſit the wicked<g ref="char:EOLhyphen"/>neſs of thoſe who dwell upon this earth, all hearts ſhall qua<gap reason="illegible" resp="#AELD" extent="3 letters">
                   <desc>•••</desc>
@@ -473,9 +473,9 @@ lightnings and earthquake at giving the Decalogue. Then appeared in its true col
                         <desc>〈…〉</desc>
                      </gap> the poſſibility of the truth of it.</p>
                </note> devoted Jericho,
-<pb n="10" facs="tcp:023778_0008_0FC11F87A4103168"/>
+<pb n="10" facs="unknown:023778_0008_0FC11F87A4103168"/>
 whoſe walls fell flat at the ſound of the trumpets blown by the Prieſts, as in obedience to the divine command,
-<pb n="11" facs="tcp:023778_0009_0FC11F8A77B1B890"/>
+<pb n="11" facs="unknown:023778_0009_0FC11F8A77B1B890"/>
 they walked round it?—Surely not.—All the ſo much boaſted glory of this Earth ſhall then vaniſh like the beſeleſs fabric of a viſion!</p>
             <p>HIGHLY expreſſive of the much wiſhed for time, when the repreſentative prieſts of Him who is both King and Prieſt for ever<gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
@@ -491,7 +491,7 @@ they walked round it?—Surely not.—All the ſo much boaſted glory of this Ea
             <p>To this glorious manifeſtation of the Sh<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>kinah, the
-<pb n="12" facs="tcp:023778_0010_0FC11F9318060258"/>
+<pb n="12" facs="unknown:023778_0010_0FC11F9318060258"/>
 divine preſence, approbating a Concert of Vocal and Inſtrumental praiſe, allow me to ſubjoin that remarkably beautiful Viſion vouchſafed to the beloved John in the Iſle of Patmos, where he, in the ſpirit beheld the <q>thou<g ref="char:EOLhyphen"/>ſands of thouſands, and thouſand times ten thouſand on Mount Zion ſaying with loud voices, worthy is the Lamb that was ſtain to receive power and riches, and wiſdom, and ſtrength, and honor, and glory, and bleſſing.</q> 
                <q>And every creature which is in heaven, and on the earth, and under the earth, and ſuch as are in the ſea, and all that are in them heard I, ſay<g ref="char:EOLhyphen"/>ing—Bleſſing and honor, and glory, and power be unto him that firteth upon the throne, and unto the Lamb for ever and ever.</q>—<q>And I heard the voice of harpers harping with their harps; and they <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -521,7 +521,7 @@ divine preſence, approbating a Concert of Vocal and Inſtrumental praiſe, allo
                   </gap> in ſilver, in <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> in precious ſtones, in tim<g ref="char:EOLhyphen"/>ber,
-<pb n="13" facs="tcp:023778_0011_0FC11F9439996068"/>
+<pb n="13" facs="unknown:023778_0011_0FC11F9439996068"/>
 and in carved work, to beautify the houſe of the Lord;</q>—and "in making inſtruments of Muſic with David, wherewith to ſound the praiſes of our God?"—The ſame divine and holy ſpirit which inſpi<g ref="char:EOLhyphen"/>red the Prophets, and filled the Apoſtles with power from on high, endued Bezaleel and Aholiab with "ſkill to work all manner of cunning workmanſhip,—and taught the Man after God's own heart, to cauſe Harps, and Pſalteries, and Dulcimers, and Trumpets, and Organs, and all kinds of muſical inſtruments to be made," to celebrate the praiſes of the Lord.</p>
             <p>IN ancient times,<note n="*" place="bottom">The Majian ſchools in Perſia, looking upon muſic as endu<g ref="char:EOLhyphen"/>ed with a power of preparing the mind for receiving good im<g ref="char:EOLhyphen"/>preſſions—and of putting it into a ſerenity proper for medita<g ref="char:EOLhyphen"/>tion and devotion, begin and end the day with concerts. <hi>Tra<g ref="char:EOLhyphen"/>vels of Cyrus Vol.</hi> 1. <hi>page</hi> 78. 79. <hi>Edit.</hi> 4. <hi>An.</hi> 1730.</note> inſtrumental muſic was in high<g ref="char:EOLhyphen"/>er and more general eſtimation, than in theſe modern days of <hi>extra-refinement,</hi> and no man's education was reckoned compleat, who could not play upon ſome in<g ref="char:EOLhyphen"/>ſtrument. And hiſtory informs us, that the Jews, re<g ref="char:EOLhyphen"/>ceived no ſmall favours from the Babylonians, during their captivity, on account of their excellent ſkill in muſic.—Indeed as early as (if not earlier than) the days of Samuel, the ſtudy of inſtrumental muſic was a very eſſential part of the<note n="†" place="bottom">"The Sons of the Prophets" are frequently mentioned in the Old Teſtament, and it is univerſally agreed upon among the learned, that theſe "Sons of the Prophets" were the ſtudents of their reſpective Maſters. We read of ſeveral prophetic col<g ref="char:EOLhyphen"/>leges or ſchools; <abbr>viz</abbr> One at the hill of God, that is Gibrah of Benjamin, 1 Sam, x c. 5 v. Another at Naioth in Ramah, <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -554,14 +554,14 @@ and in carved work, to beautify the houſe of the Lord;</q>—and "in making in�
                   </gap> the <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>," without their muſical inſtruments, we may warrantably from hence infer, that they were alſo taught the proper uſe of them, and that inſtrumental muſic was a ſtated part of their Collegi<g ref="char:EOLhyphen"/>ate exerciſes. So long as theſe ſchools remained independent of, and unconnected with, the ſtate, which was the caſe during the Theocracy, they flouriſhed, and were of ineſtimable advan<g ref="char:EOLhyphen"/>tage to the Nation, as being the permanent guardians of the ſacred rites and the prophetic records; but, from the time that the Theocracy was changed into a Monarchy, they began to droop. We find, that henceforward God ſaw fit to ſelect his Prophets every now and then from the common maſs of the people, and but ſeldom from the prophetic ſchools, which, being greatly corrupted by their connection with, and depen<g ref="char:EOLhyphen"/>dance on, the civil government, became more and more unwor<g ref="char:EOLhyphen"/>thy the divine approbation, till the Babyloniſh captivity broke them quite up. Nevertheleſs theſe ſchools, after the Reſtora<g ref="char:EOLhyphen"/>tion of the Jews, were revived by Ezra, and continued in conſi<g ref="char:EOLhyphen"/>derable eſtimation down to the days of Gamaliel.</note> Collegiate Education of 
-<pb n="14" facs="tcp:023778_0012_0FC11F9877B16A70"/>
+<pb n="14" facs="unknown:023778_0012_0FC11F9877B16A70"/>
 the Jews, To be aſcertained of this, let any unprejudi<g ref="char:EOLhyphen"/>ced perſon read the hiſtory of Samuel's firſt interview with Saul in queſt of his Father's aſſes; (1 Sam. 10 ch.) where the Prophet directing Saul which way to go,—among other things, thus ſays to him—<q>thou ſhalt go by Rachel's ſepulchre, thence to the plain of Tabor, thence to the hill of God, and it ſhall come to paſs, when thou art come thither, that thou ſhalt meet a company of Prophets, coming down from the high place, with a Pſaltery, and a Tabret, and a Pipe, and a Harp, and they ſhall prophecy. And the Spirit of the Lord ſhall come upon THEE, and thou ſhalt pro<g ref="char:EOLhyphen"/>phecy with them, and ſhalt be turned into another man.</q>
             </p>
             <p>THUS ſinging and playing the Songs of Zion theſe
-<pb n="15" facs="tcp:023778_0013_0FC11F9BE8904700"/>
+<pb n="15" facs="unknown:023778_0013_0FC11F9BE8904700"/>
 "Sons of the Prophets" <q>did celebrate each feſtal day, their ſoul did magnify the Lord, and their Spirit re<g ref="char:EOLhyphen"/>joiced in God their Saviour;</q> their hand and voice ſo employed, they feared not the attacks of the enemy, neither dreaded they the approach of the foot of pride.—The ſpirit of the evil one dares not come nigh the manſion of melody, nor can the voice of the ancient murderer find place among the rejoicings of the re<g ref="char:EOLhyphen"/>deemed of the Lord.—But if the heart of man will ſay unto God "depart from me I deſire not the knowledge of thy ways,"—and will madly welcome into it the en<g ref="char:EOLhyphen"/>emy of human happineſs, how can the harmony of Zi<g ref="char:EOLhyphen"/>on do it any good?—The Lyre of David at times could triumph over the ſpirit of diſcord in the perſon of Saul, but when he leagued with the enemy to be car<g ref="char:EOLhyphen"/>ried away captive into the Kingdom of death, where is the wonder if even the ſongs of Zion proved unable to inſpire him with ſtrength to break his chains?</p>
             <p>
-               <pb n="16" facs="tcp:023778_0014_0FC11FA2667133A8"/>
+               <pb n="16" facs="unknown:023778_0014_0FC11FA2667133A8"/>
 AND here it is not unworthy of being remarked, that, from the hour, in which Saul drove melody from his preſence, the Spirit of the Lord no more ſtrove with, but, gave him entirely up to the imagination of his de<g ref="char:EOLhyphen"/>luded and diſcordant heart. By joining a company of prophets coming down from the hill of God, prophecy<g ref="char:EOLhyphen"/>ing with a "Pſaltery and a Tabret, and a Pipe, and a Harp," Saul formerly "was turned into another man;"—he became a Prophet of the Lord;—and now, upon his<note n="†" place="bottom">Very probably, on this piece of conduct in Saul, with it's after conſequences, a great obſerver of the turnings and win<g ref="char:EOLhyphen"/>dings of the human affections, built the following ſentiment:
 <q>
                      <l>The Man that has not muſic in him.</l>
@@ -576,7 +576,7 @@ AND here it is not unworthy of being remarked, that, from the hour, in which Sau
                   <desc>•</desc>
                </gap>
                <g ref="char:EOLhyphen"/>ſes "who overthrew Pharoah and his hoſt, for his "mer<g ref="char:EOLhyphen"/>cy
-<pb n="17" facs="tcp:023778_0015_0FC11FA56DCA4E28"/>
+<pb n="17" facs="unknown:023778_0015_0FC11FA56DCA4E28"/>
 endureth for ever." So in like manner, when JE<g ref="char:EOLhyphen"/>SUS of Nazareth had aſcended up on high, from the de<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>th of the Sea of ſorrow, which he had engaged to go through when he undertook to deliver man,—<q>the morning ſtars ſang together, and all the ſons of God ſhouted for joy, at the exultation of human nature in our triumphant Re<g ref="char:EOLhyphen"/>preſentative</q>—Behold, ſays the beloved John, <q>I ſaw THEM that had gotten the victory over the beaſt, and over his image, and over his mark, and over the num<g ref="char:EOLhyphen"/>ber of his name, ſtand on the ſea of glaſs, having the HARPS OF GOD;—and they ſung the ſong of Moſes and of the Lamb.</q>
@@ -585,7 +585,7 @@ endureth for ever." So in like manner, when JE<g ref="char:EOLhyphen"/>SUS of Na
                   <desc>•</desc>
                </gap>tial muſic, and exulting to obey the mandate <q>awake and ſing ye that dwell in the duſt, and let melody be heard throughout all the cham<g ref="char:EOLhyphen"/>bers of the grave</q>—the tyrant Death ſhall be troubled indeed and feel the eternal wound.</p>
             <p>INSTRUCTED by Him, who giveth breath unto all things, and whoſe Prophet enjoins <q>all things that have breath to praiſe the Lord</q>—the Church, in every age and coun<g ref="char:EOLhyphen"/>try well knows when to tune her harp to rejoicing, and her Organ to the voice of them that weep. With the meek and obedient Shepherds, ſhe rejoiceth on the great days of
-<pb n="18" facs="tcp:023778_0016_0FC11FA6E810AB08"/>
+<pb n="18" facs="unknown:023778_0016_0FC11FA6E810AB08"/>
 MANIFESTATION, and during the ſeaſon, wherein ſhe com<g ref="char:EOLhyphen"/>memorates the TAKING AWAY of the BRIDEGROOM, ſhe mou<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>neth, but ſtill praiſeth God, and with the Virgi<gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -605,7 +605,7 @@ MANIFESTATION, and during the ſeaſon, wherein ſhe com<g ref="char:EOLhyphen"/
                </gap>iſha had conceived ſuch a degree <gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
                </gap>indignation againſt
-<pb n="19" facs="tcp:023778_0017_0FC11FA88775CE28"/>
+<pb n="19" facs="unknown:023778_0017_0FC11FA88775CE28"/>
 the King of Iſrael becauſe of his idolatrous practices, that, although poſſeſſed of a double portion of Eli<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ah's ſpirit he could not prophecy even at the requeſt of the King of Judah who was a far different character, without the aid of inſtrumental muſic.—<q>As the Lord of Hoſts liveth, (ſaith the Prophet) before whom I ſtand, ſurely were it not that I regard the preſence of Jehoſhaphat the King of Judah, I would not look toward thee, nor ſee thee:—but now, bring me a<note n="†" place="bottom">
@@ -737,10 +737,10 @@ the King of Iſrael becauſe of his idolatrous practices, that, although poſſe
                      </p>
                   </note> Minſtrel:</q>—and it came to paſs, "when the minſtrel played the hand of the Lord," that is the ſpirit of prophecy, "came upon him."</p>
             <p>
-               <pb n="20" facs="tcp:023778_0018_0FC11FAE778A46E8"/>
+               <pb n="20" facs="unknown:023778_0018_0FC11FAE778A46E8"/>
 AT ſeeing the proſperity of the ungodly,—David was tempted to ſay "ſurely I have cleanſed my hands in vain"—but when he joined in praiſing God in the great con<g ref="char:EOLhyphen"/>gregation, he learned more perfectly that <q>God is holy in all his ways, and juſt in all his works</q>—and that the end of theſe men is, that they ſhall wither as the green herb, and be brown away like the chaff of the ſummer threſhing floor.</p>
             <p>WHEN Paul and Silas ſang praiſes unto God, not only
-<pb n="21" facs="tcp:023778_0019_0FC11FB7BA254CB8"/>
+<pb n="21" facs="unknown:023778_0019_0FC11FB7BA254CB8"/>
 did the priſoners hear them—but their<note n="*" place="bottom">
                   <p>Unfortunately the poets <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -757,7 +757,7 @@ did the priſoners hear them—but their<note n="*" place="bottom">
                         <desc>••</desc>
                      </gap>ve them of their excellencies, for God endued them with it, and the infidelity and wickedneſs of man <hi>cannot</hi> take it away.</p>
                </note> ſong pierced the ſkies, and "entered into the ears of the Lord of Sabaoth."—For low! there was an earthquake—and the priſon doors were opened! In like manner, when the penitent, tho' bound by the chains of his ſins, attempts to ſing praiſes unto God with a willing heart, inſtantly his chains fall off;—he is commanded to ariſe and walk out of his pri<g ref="char:EOLhyphen"/>ſon
-<pb n="22" facs="tcp:023778_0020_0FC11FB8EB213AB0"/>
+<pb n="22" facs="unknown:023778_0020_0FC11FB8EB213AB0"/>
 and to publiſh what great things God hath done for his Soul.—Thus, when the Lord turneth away the Capti<g ref="char:EOLhyphen"/>vity of any of Zion's children, with great propriety may their mouths be filled with laughter, and their tongues with ſinging—<q>making a joyful noiſe before the Lord the King.</q>
             </p>
             <p>NOW—have we not ſeen the divine preſence approba<g ref="char:EOLhyphen"/>ting a concert of vocal and inſtrumental praiſe?—have we not ſeen the prophets prophecying on earth with the ac<g ref="char:EOLhyphen"/>companiment of an harp; and the redeemed of the Lord ſinging praiſes with the harp in their manſions of bliſs?—who then is he that ſhall find fault, when indeed, I truſt, with a ſuitable portion of David's ſpirit, we borrow David's words, and ſay <q>awake <hi>
@@ -807,19 +807,19 @@ and to publiſh what great things God hath done for his Soul.—Thus, when the L
                   </gap> and PAR<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
                   </gap>S DISCORDS of that otherwiſe magnificent and excellent inſtrument.</note> Organ—let us there<g ref="char:EOLhyphen"/>with
-<pb n="23" facs="tcp:023778_0021_0FC11FBC110066D8"/>
+<pb n="23" facs="unknown:023778_0021_0FC11FBC110066D8"/>
 with be content. And as the placing one in this Church hath occaſioned this meeting of the Congregation—permit me to conclude with offering ſome obſervations and in<g ref="char:EOLhyphen"/>ſtructions naturally ariſing from the Analogy betwixt the Organ of human contrivance and ourſelves the wonder<g ref="char:EOLhyphen"/>ful Organs of God's building.</p>
             <p>THE materials of which the various parts both of <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> Organ and our Bodies, are compoſed, are of the earth; but what gives life to both deſcendeth from heaven. When the body of man received the breath of life, that wonder<g ref="char:EOLhyphen"/>ful Organ was ready to praiſe God, ſo when the bellows, the lungs of the Organ of man's building, heaves and in hales the air, it may be ſaid to be alive—it is ready to obey the ſinger of him who deſireth it to join with the Congre<g ref="char:EOLhyphen"/>gation in praiſing God.—The Spirit of the Lord giveth it breath—it ſoundeth—<q>and we hear the ſound thereof, but cannot tell whence that ſound cometh, nor whither it goeth.</q>—How expreſſive is this of the operations of that ſpirit who worketh is the hearts of the regenerate! Do the pipes ſtand in rows—does each one know it's own appointed place—and do they all receive their due pro<g ref="char:EOLhyphen"/>portion of air from the common ſtock? Juſt ſo, the mem<g ref="char:EOLhyphen"/>bers of the body natural, ſocial, or chriſtian ſtand in that relation, which they bear to each other and to the whole; none can ſay to the other <q>I have no need of thee,—for no man liveth to himſelf.</q>—We are members one of another, and our duty is to preſerve "the unity of the ſpirit
-<pb n="24" facs="tcp:023778_0022_0FC11FC638B7C298"/>
+<pb n="24" facs="unknown:023778_0022_0FC11FC638B7C298"/>
 in the bond of peace," always remembering that, what<g ref="char:EOLhyphen"/>ever good thing any man has, he muſt have received it from above.</p>
             <p>BUT, alas! expreſſive of the humbled condition of our nature, are all the works of man; for all loudly publiſh their own imperfection, as well as that of him who made them!—And are not we hereby admoniſhed to ſeek for perfection from God? and this perfection conſiſteth in be<g ref="char:EOLhyphen"/>ing like unto God, and God, St. John tells us, is Love.</p>
             <p>IN tuning the Organ, the proportion of diſcord inſepa<g ref="char:EOLhyphen"/>rable from the ſcale of Muſic, is diſtributed among the ſe<g ref="char:EOLhyphen"/>veral pipes of the Octave, in order that they may all bear their proportion of this inconveniency—and conſequently produce better harmony, than if the whole error was laid on any one of them. What may we learn from this—but "to bear one another's burdens"—<q>to pleaſe each man his neighbour, for his good to edification?</q>—and thus to fulfil the royal law of concord the companion of Cha<g ref="char:EOLhyphen"/>rity.</p>
             <p>TO the ſo general neglect of "mutual forbearance and mutual forgiveneſs," is owing the great diſſimilitude be<g ref="char:EOLhyphen"/>tween many of our modern chriſtians and thoſe of ancient times, <q>when THE MULTITUDE OF THE BELIEVERS WERE OF ONE HEART AND OF ONE MIND.</q>
             </p>
             <p>NOT more apt to go out of tune, and all ſorts of inſtru<g ref="char:EOLhyphen"/>ments, from the influences of heat, and cold, of moiſture and drought, and of winds and calms; than are the affec<g ref="char:EOLhyphen"/>tions of the human heart, thoſe ſtrings or pipes of this Or<g ref="char:EOLhyphen"/>gan of God's building from the influences of the various objects which ſurround them; <q>the luſt of the eye, the luſt of the fleſh, and the pride of life.</q> How oft do one
-<pb n="25" facs="tcp:023778_0023_0FC11FC72C2E1AB8"/>
+<pb n="25" facs="unknown:023778_0023_0FC11FC72C2E1AB8"/>
 or all of theſe deſpire to put out ſouls out of tune, and ſpread the jarrings of diſcord among us? When comes wars and lightings among us? come they not even of our luſts?</p>
             <p>WHY need I purſue the Analogy further? Beholding Brethren, the weakneſs of our mortal nature thro' ſin, in the imperfection inſparable from all the works of ſkill and genius,—and the dignity of that nature, to which we are invited, and of which we have an engaging foretaſte <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -827,7 +827,7 @@ or all of theſe deſpire to put out ſouls out of tune, and ſpread the jarring
             <p>THUS prepared—we may pray "thy Kingdom come" "come Lord Jeſus—come quickly."</p>
             <p>So when "the AUTHOR OF PEACE, and LOVER OF CON<g ref="char:EOLhyphen"/>CORD" ſhall again deſcend, and as at the firſt, breathe into man the breath of life, every one, whoſe life hath been a life of praiſe and love, and hope in Jeſus, ſhall again live, they ſhall ſtand in his ſight, and enter upon the employ<g ref="char:EOLhyphen"/>ment of never ending praiſe; and they ſhall invite the whole creation to join with them, ſaying <q>O all ye works of the Lord, bleſs ye the Lord, praiſe him and magnify him for ever.</q> They ſhall in ſeraphic and al<g ref="char:EOLhyphen"/>ternate hymns, inceſſantly chant Jehovah's works of Crea<g ref="char:EOLhyphen"/>tion, Providence, and Redemption, with the accompa<g ref="char:EOLhyphen"/>niment of ſuch INSTRUMENTS OF MUSIC, of which, thoſe uſed in the Temple and the Church have been the emblems types and ſhadows.</p>
             <p>
-               <pb n="26" facs="tcp:023778_0024_0FC11FC8C5232B98"/>
+               <pb n="26" facs="unknown:023778_0024_0FC11FC8C5232B98"/>
 PERSUADED of this, the Church ceaſeth not to ſing praiſes unto the Lord, well knowing that the Celebration of her Nuptials with the Lamb faſt approacheth, when the grand hymenaeum ſhall be ſung, to which every hymn performed on earth is a kind of prelude. Whilſt there<g ref="char:EOLhyphen"/>fore the day of grace laſteth let prayer and praiſe aſcend up to glorify God, and benediction and grace will deſcend to ſanctify and gladden the heart of man. But, when pray<g ref="char:EOLhyphen"/>er ſhall be abſorbed in fruition, and hope ſhall have fully accompliſhed its purſuits—Praiſe like her ſiſter charity ſhall reign triumphant, throughout the endleſs ages of eter<g ref="char:EOLhyphen"/>nity.</p>
             <p>
                <q>PRAISE the Lord, ye houſe of Levi—praiſe the Lord ye houſe of Aaron—O all ye children of men bleſs ye the Lord, praiſe him and magnify him forever:—be tell<g ref="char:EOLhyphen"/>ing of his ſalvation from day to day;—for he is good and gracious, and cannot worthily be praiſed.</q>—Salvation be aſcribed unto our God, for he hath holpen his people—and redeemed us from the hand of the enemy: hallelujah, hallelujah, hallelujah;—he who is the reſurrection and the life—was dead and as alive again, and liveth forevermore, hallelujah, Amen.</p>
